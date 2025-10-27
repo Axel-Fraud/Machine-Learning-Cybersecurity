@@ -1,0 +1,301 @@
+Type_of_Attack,Date_and_Time,Town,Country,Source_Town,Source_Country,Target_Town,Target_Country
+Malware,2024-01-13 03:23:33.618343,Port Ryanborough,China,North Tara,United Kingdom,North Sean,Brazil
+Malware,2024-05-22 09:49:00.887401,Natashatown,United Kingdom,East Garybury,South Korea,Wustad,China
+SQL Injection,2024-04-14 06:41:10.114361,Larryton,China,Lake Brianland,China,South Peter,India
+DDoS,2024-07-03 17:32:11.615286,Michaeltown,United States,Douglasville,Japan,Mcclainburgh,China
+Phishing,2024-07-06 12:23:13.804788,South Kathleen,United States,Cooperstad,India,Jimmyborough,Germany
+Phishing,2024-03-24 15:33:09.596688,Patriciatown,Germany,North Willieton,South Korea,East Chelseaside,Japan
+Ransomware,2024-06-03 03:52:13.362828,Johnsonville,China,Steelefurt,Brazil,South Steven,Brazil
+DDoS,2024-02-20 14:14:39.742641,Matthewburgh,South Korea,Melissaland,Japan,Clarkstad,China
+Malware,2024-10-18 09:45:28.890549,Millershire,Japan,Beckbury,India,South Staceyland,Brazil
+DDoS,2024-04-09 02:06:51.093241,North Christineville,China,Port Brian,Australia,Jacobville,Germany
+Ransomware,2024-01-29 02:33:29.848353,Burnettmouth,Japan,Stacyville,China,East Shawnland,Russia
+SQL Injection,2024-01-04 22:16:02.770939,Josephfurt,United States,West Chadtown,China,Taraberg,China
+DDoS,2024-09-19 01:26:52.913775,Prattstad,United Kingdom,Joshuaville,India,Port Christopherfort,Russia
+SQL Injection,2024-06-28 10:47:24.741932,South Charles,Japan,Gonzalezchester,Brazil,Landryborough,Australia
+Malware,2024-10-27 18:21:34.136086,West Kathytown,South Korea,Port Bradleyburgh,China,Lake Kyle,United Kingdom
+DDoS,2024-08-08 13:19:50.637308,Angelashire,Germany,Payneburgh,Australia,West Alexland,Russia
+Malware,2024-01-02 02:51:19.367802,South Tammyborough,Germany,West Jeffreytown,United States,Holtchester,United States
+SQL Injection,2024-05-26 10:57:51.120692,Wilsonville,China,Port Jennifer,India,New Rhonda,India
+Phishing,2024-10-05 09:45:40.747282,East Danielle,Germany,Jonland,United Kingdom,Lake Tammyfurt,Brazil
+SQL Injection,2024-08-09 02:20:48.306720,Rachelbury,Russia,Lake Natashaborough,Australia,North Anita,Brazil
+Phishing,2024-10-11 23:01:23.702050,Woodardside,Russia,Roberthaven,South Korea,Ramirezshire,India
+Ransomware,2024-05-25 08:56:18.208166,Kingfurt,Japan,Murphyberg,United Kingdom,Frankshire,Russia
+SQL Injection,2024-04-05 13:38:09.000896,East Michael,United Kingdom,Port Michaelland,Germany,Lake Virginiaberg,China
+Ransomware,2024-09-14 17:43:27.680177,East Johntown,Germany,West Richard,Brazil,Fishershire,Brazil
+Ransomware,2024-10-23 02:00:34.849198,South Jenniferville,Germany,Riverabury,China,Brooksfort,Australia
+Phishing,2024-06-24 06:02:07.215135,Brendaburgh,Russia,Hayesshire,South Korea,Lawrenceton,India
+DDoS,2024-05-03 04:20:14.802797,East Kennethtown,Brazil,North Susan,Germany,Annview,Japan
+Phishing,2024-07-11 00:49:40.674734,North Willieshire,United Kingdom,Williamfurt,India,Adamsberg,Russia
+SQL Injection,2024-01-17 17:37:16.651360,Melanieborough,Russia,West Scott,Brazil,Butlerton,United Kingdom
+Phishing,2024-06-30 12:57:44.894441,Watkinsfurt,Russia,Lake Ashley,India,North Ronaldchester,India
+SQL Injection,2024-10-18 14:16:40.460088,Lisaberg,Germany,East Davidstad,India,Kathrynbury,Australia
+Malware,2024-01-18 08:27:55.672800,Sandraview,United States,East Timothymouth,Germany,North Emily,Russia
+Phishing,2024-09-24 02:02:51.231533,Port Susanport,China,Lake Timothyshire,Russia,New Anthony,Australia
+Ransomware,2024-04-25 10:35:58.503575,West Jennifer,Australia,Colemanburgh,Brazil,Port Herberthaven,United States
+Malware,2024-04-17 11:18:00.569030,West Harry,Brazil,Adamton,United States,North Johntown,India
+SQL Injection,2024-03-27 08:28:32.988955,Lake Melissamouth,Russia,North Samanthaview,United States,Hooverberg,Japan
+Phishing,2024-08-29 15:35:07.381665,North Mark,Germany,Alejandromouth,India,Terrifort,China
+Phishing,2024-03-14 11:46:09.670531,West Coltonton,Japan,West Rachel,India,Lake Larry,United Kingdom
+Ransomware,2024-06-25 00:04:45.767707,Lake Jane,United States,Williambury,Brazil,Riggsville,Brazil
+SQL Injection,2024-09-09 04:21:53.222869,West Paul,United Kingdom,Port Kim,Japan,Ritaport,Japan
+DDoS,2024-05-30 22:19:41.899022,Andreahaven,India,South Michaeltown,Germany,Lake Bradleytown,United States
+DDoS,2024-06-03 22:55:51.366082,Port Davidside,Germany,Huynhmouth,India,Hillshire,United States
+Malware,2024-06-12 14:46:29.506931,Alexandriafort,China,Ortegaland,Russia,Yuton,Japan
+Phishing,2024-03-13 09:03:51.419254,Brendaville,China,Rogersbury,Australia,Port Randallchester,United States
+Ransomware,2024-03-23 20:19:42.195576,West Gabrielle,South Korea,Vaughnshire,South Korea,Sanchezstad,Brazil
+SQL Injection,2024-06-07 20:37:52.541414,New Mark,Australia,Davidfort,Russia,Smithfort,Germany
+Ransomware,2024-06-04 00:53:36.195129,Langfurt,China,Jonathanhaven,Russia,East Danielhaven,Australia
+Phishing,2024-02-11 04:38:30.338367,West Lindafurt,Russia,South Sharon,Australia,Villarrealbury,Russia
+Malware,2024-02-13 21:47:37.928786,Port Vanessa,Russia,North Alexander,United States,East Loganstad,Germany
+Phishing,2024-08-20 22:16:12.344071,West Timothy,Japan,North Robertview,China,Jacobberg,United Kingdom
+Malware,2024-07-31 12:16:04.224402,West Benjaminmouth,Japan,West Ryan,Australia,Clarkville,South Korea
+SQL Injection,2024-04-12 08:32:04.209459,Shannonton,Brazil,East Lisaview,Germany,New Priscillafurt,South Korea
+Malware,2024-06-04 13:53:42.271635,South Adamshire,China,East Julie,United States,Kimberlyfort,Russia
+Phishing,2024-02-01 21:52:18.498185,North Juliemouth,Australia,Kevintown,Brazil,Matthewburgh,United States
+Phishing,2024-07-06 15:49:26.646033,South Renee,United Kingdom,Andersonburgh,Brazil,Melissabury,Japan
+Malware,2024-10-21 03:08:35.005264,New Michaelborough,Australia,Morrisville,United States,Port Maria,Australia
+Ransomware,2024-10-06 06:18:23.950764,Willieshire,Brazil,North Kevin,India,Rayberg,United States
+Ransomware,2024-07-21 03:35:02.797301,Andrewborough,United Kingdom,South Ginabury,South Korea,South Ronnie,United States
+Phishing,2024-03-26 21:35:28.480987,Morganville,Japan,Nicoleborough,South Korea,Lake Brendanton,United Kingdom
+Malware,2024-08-14 02:54:35.271257,South Adrianburgh,Germany,Hughesfurt,Australia,Brownmouth,China
+Malware,2024-07-28 09:59:16.601708,East Josephview,Russia,North Julia,Japan,South Richardville,South Korea
+Malware,2024-07-20 07:00:10.077501,Davidstad,Russia,Williambury,South Korea,Ashleymouth,Brazil
+SQL Injection,2024-04-24 04:57:01.447438,South Sharon,Japan,South Charleston,Japan,Reynoldsside,China
+Malware,2024-05-09 03:42:30.393567,North Mathewfurt,United States,Abigailborough,United Kingdom,West Michael,India
+Phishing,2024-10-11 14:26:51.512952,Walkerland,Russia,Port Patricia,United States,Shanehaven,Brazil
+Phishing,2024-05-22 12:57:52.649633,New Jessica,South Korea,West Amy,United Kingdom,North Jeffrey,China
+Phishing,2024-10-03 04:18:38.862851,South Jennifer,United Kingdom,Janiceland,United States,Deleonborough,United Kingdom
+Ransomware,2024-10-23 18:17:35.981195,Kellyborough,United States,North Donald,Japan,North Marie,China
+DDoS,2024-06-14 03:01:21.010451,East Victoriafurt,Japan,New Kristinaburgh,Japan,Victoriamouth,United Kingdom
+Malware,2024-09-27 23:21:43.946734,Sandraton,Brazil,Justintown,United States,West Edwardburgh,Russia
+Malware,2024-02-10 18:36:36.948188,Andersonland,Australia,East Garrettstad,South Korea,Davidborough,Australia
+SQL Injection,2024-01-13 22:55:39.694161,Rossfort,United States,Josephchester,United States,East John,South Korea
+Phishing,2024-07-15 01:18:38.180428,Stewartport,Japan,North Amanda,Russia,North Larryview,India
+DDoS,2024-06-15 18:40:23.221777,Johnsonfort,Brazil,Timothystad,Japan,Anthonyborough,South Korea
+DDoS,2024-04-17 06:04:58.971533,South Joseph,India,Jessicafort,Russia,South Patrickberg,United States
+DDoS,2024-08-03 02:30:48.967732,West Jacobside,Germany,Seanfurt,Brazil,Katelynchester,Japan
+DDoS,2024-05-20 01:53:24.275397,West Ryanmouth,South Korea,East Sherriberg,Brazil,Katherinefurt,Australia
+SQL Injection,2024-04-25 04:01:39.633904,West Claudiaborough,Australia,West Deborah,Brazil,New Rhondafort,United States
+SQL Injection,2024-10-25 23:17:53.107884,North Ross,China,Port Caleb,Brazil,Kerrbury,Japan
+Malware,2024-06-02 07:06:47.800919,Kimberlyville,China,East Michaelview,India,East Jamesborough,India
+Malware,2024-10-02 15:32:45.644118,Jenkinsfort,United States,Sullivanfort,Japan,North Jamie,India
+Ransomware,2024-07-23 17:22:07.196147,East Gailview,United Kingdom,Josephtown,China,Lake Michaelview,China
+DDoS,2024-09-05 11:45:03.646233,North Suzanne,Japan,Port Thomasville,Brazil,Anthonyland,South Korea
+SQL Injection,2024-06-21 07:44:10.204392,Claudiafort,United Kingdom,Lake Alexandra,United Kingdom,Fletcherberg,South Korea
+SQL Injection,2024-09-20 15:27:13.195397,Wardborough,Germany,East Douglaschester,India,Port Sylviafurt,United States
+DDoS,2024-02-07 21:36:01.584108,South Seanview,India,Hallborough,South Korea,Schneidermouth,China
+Malware,2024-09-02 02:35:01.462790,Williamshaven,India,Pearsonton,Japan,Youngmouth,United States
+Phishing,2024-07-12 10:31:25.314058,Barberburgh,Australia,Howardland,India,Harrismouth,Russia
+SQL Injection,2024-02-08 18:03:42.015249,East Carloschester,China,Port William,Australia,Perkinston,Brazil
+Ransomware,2024-08-24 01:50:34.885892,West Shellyhaven,India,Williamton,China,Adamsview,Japan
+Malware,2024-07-25 00:56:56.599848,Osbornestad,South Korea,North Joseph,Germany,North Sean,Japan
+Ransomware,2024-04-22 07:36:33.139447,South Stefaniestad,United Kingdom,East Laura,India,South David,Japan
+DDoS,2024-01-26 00:35:34.390061,Lake Laura,Japan,West Scott,China,Port Susan,China
+Malware,2024-09-14 18:30:24.327571,Johnton,Japan,New Thomastown,Japan,Virginiabury,United Kingdom
+Ransomware,2024-10-30 01:59:57.012379,North Ashleyside,Australia,Port Mark,Germany,East Christine,Brazil
+DDoS,2024-08-09 08:54:55.698235,Fosterfurt,United Kingdom,Lake Andreabury,Japan,Franktown,United States
+DDoS,2024-08-30 15:02:35.809737,Riosbury,United States,Hannahburgh,Australia,East Shane,Japan
+Phishing,2024-05-03 17:32:25.113978,East Jeffrey,India,Christineville,Germany,North Lauramouth,United Kingdom
+Malware,2024-08-16 22:40:57.246071,Kurtton,United States,Christinafurt,Japan,North Richardmouth,South Korea
+SQL Injection,2024-04-11 10:00:52.481313,Lake Johnchester,United Kingdom,West Maryville,United States,Whitebury,Russia
+Phishing,2024-03-29 06:57:53.349630,Taylorberg,Japan,New Sharon,China,Waltonshire,Australia
+SQL Injection,2024-04-04 02:22:29.523722,New Melissa,Japan,New Joshuahaven,Brazil,Bryceborough,Australia
+Phishing,2024-10-15 22:11:51.857649,Port Clairemouth,United Kingdom,Samuelview,Germany,Lake Kevinberg,Japan
+DDoS,2024-03-17 13:06:49.882416,Weavertown,China,East Amandastad,Australia,Gregoryton,Brazil
+DDoS,2024-08-10 02:25:18.833547,Adrianmouth,Russia,South James,Russia,Wendyburgh,Brazil
+Ransomware,2024-01-02 13:05:57.121226,Michaelfurt,Germany,New Lisa,China,Adamview,United States
+Phishing,2024-10-07 04:57:08.956866,East Susanberg,China,Port Ryanland,United States,Lake Michaelfort,Brazil
+SQL Injection,2024-10-15 10:29:31.838954,Charlesfurt,United Kingdom,Ericaton,United States,Lake Jessica,Brazil
+Ransomware,2024-07-24 22:51:57.388959,Scottberg,United Kingdom,Port Thomas,Germany,North Linda,Germany
+Malware,2024-08-13 07:59:49.139822,Carrborough,Australia,South Jennifertown,India,Juliaview,Russia
+Malware,2024-10-29 16:15:47.297182,Carrilloshire,India,Jacobside,South Korea,West Robert,United States
+Phishing,2024-09-13 10:38:07.591754,West Jamiefort,South Korea,South Kylefort,Japan,South Jamesstad,Russia
+Phishing,2024-01-27 05:03:53.745054,Dianaland,Russia,New Debra,Russia,Bobbyfort,South Korea
+DDoS,2024-08-11 10:31:59.282775,Danielmouth,United Kingdom,Lake Tylerport,United States,Martinfort,Australia
+Ransomware,2024-03-16 10:10:37.884256,Juliamouth,China,Port Kathryn,United States,West Spencer,Japan
+Phishing,2024-05-08 20:28:55.176149,Davidberg,Brazil,North Dennisland,United States,West Raymondmouth,South Korea
+Malware,2024-02-05 01:40:19.373643,Tanyaview,Japan,Whitneyberg,United Kingdom,Ryantown,Australia
+Ransomware,2024-08-23 11:42:24.090715,East Melissa,Russia,Lake Jessica,United Kingdom,Greenbury,Australia
+DDoS,2024-05-05 14:04:46.329048,Bernardfort,South Korea,Feliciaview,Australia,Danstad,Brazil
+DDoS,2024-09-01 23:14:05.387058,Martinside,United States,Lake Rodneyfort,Russia,East Erinmouth,United States
+SQL Injection,2024-10-11 12:44:33.431610,Davistown,Australia,West Jeremy,South Korea,Port Vincent,Russia
+SQL Injection,2024-05-19 01:22:36.078889,South James,Germany,Rogersmouth,Australia,New Prestonview,China
+DDoS,2024-01-05 10:41:21.243594,New Kristi,Russia,South Andrea,China,Singhshire,South Korea
+Malware,2024-03-29 04:57:11.993305,Jacquelineport,United Kingdom,South Sandra,South Korea,West Paige,South Korea
+DDoS,2024-09-14 22:46:50.464852,Sarahmouth,Germany,Ricardoburgh,United States,Lake Adamhaven,India
+Malware,2024-02-22 09:30:45.471674,Davidside,South Korea,Jacquelinemouth,United Kingdom,Morrisfurt,Japan
+Phishing,2024-07-27 04:50:33.980572,West Sethstad,United Kingdom,South Jordan,Australia,South Dorismouth,Germany
+DDoS,2024-03-17 04:11:20.571517,Kennethburgh,China,Annehaven,China,Staceyport,Russia
+SQL Injection,2024-10-29 03:51:27.188196,Port Jose,South Korea,New Chadview,Australia,Port Lindaberg,China
+Phishing,2024-03-17 22:47:44.295604,Knighttown,Russia,Erikamouth,Australia,Ethanport,Japan
+Ransomware,2024-09-09 18:34:51.759262,Tateville,United Kingdom,Aaronhaven,United States,Jefferyport,South Korea
+Phishing,2024-06-13 13:08:35.968680,Sandraside,Brazil,Rosalesmouth,China,Smithbury,United States
+DDoS,2024-06-11 23:32:13.433979,Annbury,India,Lake Timothy,India,Huntershire,Australia
+Malware,2024-05-11 18:52:55.588887,Braunton,Germany,Port Mary,United Kingdom,East Michaelchester,India
+SQL Injection,2024-03-11 04:38:53.039233,East Mary,Germany,Johnsonfurt,South Korea,Harrisfort,South Korea
+Phishing,2024-10-31 02:01:29.910953,South Brooke,Japan,South Andrea,Brazil,South Jessica,United Kingdom
+SQL Injection,2024-02-20 21:18:10.910054,West Brendaview,Brazil,West Nicolebury,China,Leeshire,United Kingdom
+Malware,2024-06-11 05:35:00.541726,Johnside,Brazil,Danielland,India,Michaelshire,Australia
+DDoS,2024-09-15 03:41:42.818542,Edwardsland,United Kingdom,Goodmanbury,Brazil,New Diamond,United States
+Malware,2024-08-26 02:41:41.212771,Williamsonton,Brazil,Murphyburgh,South Korea,West Nicole,Japan
+Ransomware,2024-06-10 14:47:00.482413,Jennifermouth,China,East Sarah,India,Aarontown,South Korea
+Phishing,2024-06-25 12:44:25.437901,Port Robertstad,Germany,South Jennifermouth,United Kingdom,West Deborahhaven,Germany
+Malware,2024-03-04 01:38:25.238872,Port Savannahland,Australia,Michelemouth,China,East Mackenzie,India
+SQL Injection,2024-01-15 01:40:37.433264,Morganburgh,China,Bondstad,Russia,Jenniferport,South Korea
+Malware,2024-08-29 04:24:05.518010,Riveraport,Australia,South James,India,Lake Douglas,Brazil
+Ransomware,2024-05-03 21:35:50.350521,New Michelletown,Germany,New Cynthia,United States,Aprilberg,United States
+Malware,2024-06-30 16:19:38.491546,Lake Daniel,Japan,South Catherineland,United Kingdom,East Gregland,United States
+Ransomware,2024-07-21 20:52:44.776595,South Jessica,Germany,South Annamouth,South Korea,Lake Brian,Japan
+Malware,2024-06-27 00:50:57.583514,Gilmoreton,China,Port James,India,West Frankton,China
+Malware,2024-06-17 15:06:31.258293,North Michaelfort,China,North Maureen,Australia,Richardland,Australia
+DDoS,2024-09-06 15:13:55.743222,Phillipston,Japan,Annettemouth,Brazil,Jonathanport,United Kingdom
+Ransomware,2024-03-26 06:01:19.992450,Janicestad,United States,Michaelside,India,Port Jessica,Japan
+Ransomware,2024-08-07 02:03:26.507635,Michelleville,South Korea,South Donald,Russia,West Ashleystad,China
+Phishing,2024-08-20 16:46:33.874453,Lake Brian,Brazil,Jonesshire,Germany,Katherinetown,Brazil
+Phishing,2024-09-02 10:11:55.641423,Lisaland,United Kingdom,Port Angie,Australia,Smithchester,United States
+DDoS,2024-03-04 05:03:20.266741,Bowmanside,Germany,Caitlinborough,South Korea,Kimberlybury,Brazil
+Phishing,2024-06-09 18:59:05.735838,Lake Nicole,Brazil,East Samantha,Brazil,New Kimberly,India
+Phishing,2024-03-02 14:18:21.535446,Kingland,Russia,Michaelmouth,India,Port Samuel,Russia
+Malware,2024-01-28 00:12:40.465921,North Jeffrey,United States,North Nicholastown,Australia,Port Loganberg,United States
+Ransomware,2024-08-28 17:37:43.067686,Lake Arthurville,China,Goodville,China,Michaelville,Brazil
+SQL Injection,2024-06-01 02:17:11.675116,North Tammy,United States,Port Tyler,United Kingdom,West Stephenstad,India
+Phishing,2024-10-07 05:17:27.406495,Paulbury,Brazil,Fitzgeraldland,United States,East Dylanfort,China
+Ransomware,2024-08-01 22:01:19.376957,East Barbara,Germany,Crystalhaven,Brazil,Glovermouth,Brazil
+Malware,2024-10-05 23:17:50.497874,Guerraburgh,India,Smithport,Germany,Larryburgh,Russia
+SQL Injection,2024-03-18 06:42:43.152110,Martinshire,Russia,Laurenborough,China,Brianbury,Australia
+DDoS,2024-03-13 10:19:10.792808,Traciberg,Brazil,South Conniechester,United Kingdom,West Scottstad,Russia
+Ransomware,2024-10-22 00:25:06.338023,Erneststad,India,Charlesville,Brazil,West Tonya,United States
+SQL Injection,2024-10-02 07:02:21.869563,Port Stephanie,China,Port Kristy,Australia,Valerieville,Russia
+DDoS,2024-02-02 09:53:20.059282,West Scott,United States,Lake Brittanyfurt,Russia,Port Johnborough,India
+SQL Injection,2024-09-21 19:10:28.306149,Port Kellyside,Brazil,Bellland,United States,Andrewsmouth,India
+DDoS,2024-09-18 09:14:00.600445,Haletown,Russia,East Cody,United States,Larsonton,United Kingdom
+Ransomware,2024-10-04 09:50:49.254837,Johnburgh,China,Lake Jason,Japan,Blackwellmouth,Germany
+Malware,2024-09-10 14:04:34.030723,Port Vanessafurt,Russia,East Michaelchester,South Korea,East Ashleyshire,Brazil
+Phishing,2024-07-09 18:13:47.463966,West Samantha,South Korea,Lake Victoriaburgh,Germany,Michaelshire,Australia
+Malware,2024-07-18 19:42:21.657020,East Randybury,Germany,New Joshuaville,Brazil,New Ryan,India
+Phishing,2024-06-24 14:24:54.330916,Rubenchester,Russia,Wayneside,Brazil,Kristenfort,South Korea
+DDoS,2024-09-22 02:36:08.712308,New Caitlinburgh,Japan,Williambury,India,Danielchester,Brazil
+DDoS,2024-05-27 17:17:30.410588,Lake Stacey,Australia,West Stephaniebury,United States,Thomashaven,Russia
+SQL Injection,2024-07-04 06:16:49.551956,West Jill,Australia,Lake Jessicachester,Russia,Carrilloport,United States
+DDoS,2024-07-12 23:45:33.340764,North Adrianview,South Korea,West Sue,United States,Lake Bryce,India
+Ransomware,2024-04-17 17:29:29.901813,New David,Germany,Browntown,United States,Kellyton,United Kingdom
+Malware,2024-02-18 13:33:43.532067,East Dianeport,Germany,Schaeferville,Germany,Hollandstad,United Kingdom
+Malware,2024-06-29 21:33:14.229017,New Josephtown,Brazil,New Jessicahaven,Germany,Arthurside,Australia
+Ransomware,2024-05-05 18:56:17.756007,North Anthony,United States,Lake Stephaniemouth,Australia,Andreshire,China
+DDoS,2024-03-05 00:22:35.205541,West Jennifer,Brazil,North Christopher,Germany,Larsonmouth,Germany
+Ransomware,2024-08-18 05:31:50.107666,South Leah,Australia,Lake Jesse,Japan,North Wandaborough,China
+Malware,2024-03-10 00:37:05.927093,North Kennethtown,Australia,Port Melissatown,South Korea,Lorraineport,United States
+DDoS,2024-07-16 23:22:05.933530,East Christopherville,United States,New Michael,United States,West Brittanyburgh,Australia
+Malware,2024-01-08 04:57:32.631714,South Lorishire,Germany,Salazarbury,United States,Robersontown,Australia
+DDoS,2024-05-27 16:06:33.703980,Jimmyside,Australia,North Regina,South Korea,East Danielport,United Kingdom
+DDoS,2024-09-18 06:05:28.352060,Martinshire,United Kingdom,South Richardport,South Korea,East Kevin,United Kingdom
+SQL Injection,2024-01-08 20:34:28.563816,Francischester,Brazil,New Nathanchester,United Kingdom,Timothyfort,China
+SQL Injection,2024-08-03 11:56:13.973865,Port Meghanport,Brazil,Katherinebury,China,Madelineberg,South Korea
+SQL Injection,2024-01-05 11:12:59.386136,South Ryanfurt,Brazil,West Amyborough,Japan,Lake Nancyville,Germany
+Malware,2024-07-27 22:38:35.671405,West Amyview,United Kingdom,West Robert,India,Amandashire,Japan
+DDoS,2024-08-23 20:10:53.578374,Adamville,Russia,South Bradley,South Korea,Joyport,South Korea
+Malware,2024-02-16 22:35:43.969646,North Mary,China,Lake Christopher,Brazil,Bradfordshire,Brazil
+DDoS,2024-01-11 23:53:38.737130,Whiteheadberg,China,Jessicabury,Russia,Kirbyport,United States
+Phishing,2024-02-12 21:41:36.197864,South Robertomouth,Germany,Port Tylerton,South Korea,New Garrett,United States
+DDoS,2024-02-28 08:50:56.291291,Whiteport,Brazil,Austinport,India,Smithbury,India
+Ransomware,2024-02-06 06:09:56.117132,Briannabury,Australia,Port Anthony,Japan,West Ashley,South Korea
+DDoS,2024-08-17 02:33:33.216453,Lewisberg,United States,Jonesshire,India,North Jessica,United Kingdom
+SQL Injection,2024-08-03 05:00:00.845510,New Amber,Brazil,Port Mariastad,Russia,Ashleyborough,Germany
+Ransomware,2024-08-17 04:37:01.759163,Rebeccabury,South Korea,New Kimberly,United Kingdom,Port Nicholas,South Korea
+SQL Injection,2024-05-02 07:08:41.755885,Port Daniel,Japan,Lake Roseshire,China,Jeffreystad,United States
+SQL Injection,2024-02-20 01:34:23.537863,South Karenville,Brazil,Robinville,United Kingdom,New Jonathan,India
+DDoS,2024-01-11 14:52:56.314051,South Larry,China,Lake Cynthiaport,China,New Aaronshire,Russia
+DDoS,2024-03-27 09:42:12.697535,South Lorraine,Australia,Lake Kathrynland,Germany,New Brianna,Germany
+DDoS,2024-07-01 14:23:16.505611,Contrerasfurt,United States,West Debra,South Korea,Smithport,United Kingdom
+DDoS,2024-07-20 10:09:26.644591,Melaniemouth,Brazil,Lake Michael,Russia,East Elizabeth,South Korea
+DDoS,2024-06-06 13:05:41.447855,Brittanyhaven,South Korea,Kristinborough,South Korea,West Spencertown,Germany
+DDoS,2024-06-04 19:22:54.158718,Alanside,Germany,Lake Keithport,India,Charlesborough,Australia
+Ransomware,2024-02-14 08:43:10.327506,Port Angela,India,North Thomasville,United Kingdom,South Angelaville,Japan
+Ransomware,2024-05-27 02:27:29.851452,New James,China,New Rebeccaborough,United Kingdom,East Sarahbury,Australia
+DDoS,2024-08-30 08:27:25.530363,East Alexander,United States,Piercemouth,South Korea,Velezmouth,Brazil
+DDoS,2024-01-17 02:30:53.409747,West Michaelview,Japan,Lake Coreyland,South Korea,South Williamtown,China
+DDoS,2024-05-28 00:08:17.241807,Greeneview,China,Laurieview,Germany,Port Gary,Russia
+Malware,2024-08-29 09:04:22.820230,Port Jerrytown,China,West Megan,India,Charlesport,Russia
+SQL Injection,2024-05-01 18:58:14.164474,Vincentmouth,Brazil,Vincentside,United Kingdom,South Gregory,India
+DDoS,2024-08-07 21:27:03.733782,East Brandyhaven,Russia,Roberthaven,South Korea,North Sylvia,Brazil
+Phishing,2024-01-10 04:43:34.238342,Cookville,China,Port Andrewberg,Russia,Jamieside,United Kingdom
+DDoS,2024-10-03 03:49:12.454765,North Joshua,Russia,Adamton,China,Lake Ryanborough,Australia
+DDoS,2024-10-13 05:41:06.549829,West Jackie,Brazil,Phillipton,Brazil,Reedland,United States
+Ransomware,2024-03-20 05:51:53.149333,West Ashleyshire,Germany,Joneshaven,China,Wheelermouth,Germany
+DDoS,2024-04-01 10:57:00.154945,West Jessica,India,Lake Justinmouth,South Korea,Underwoodview,Brazil
+Malware,2024-03-11 11:14:48.404655,Millermouth,United Kingdom,South Theresa,South Korea,North Lindsay,Germany
+DDoS,2024-10-31 16:25:52.645122,East Amandabury,Japan,North Matthewbury,Germany,New Jeff,Russia
+Malware,2024-08-28 08:46:57.945658,Craigport,Russia,Nathanberg,China,Kyleton,Germany
+DDoS,2024-03-13 03:35:22.788738,Bushbury,United Kingdom,Marshallstad,United Kingdom,Huntershire,United States
+Phishing,2024-07-08 04:23:11.591448,Jacquelinestad,United Kingdom,New Timothybury,Russia,West Laurentown,India
+SQL Injection,2024-07-28 11:27:42.800481,Vanessamouth,United Kingdom,South Andrea,Australia,Brownhaven,South Korea
+DDoS,2024-08-24 22:46:33.237383,North Kevinton,Germany,Amyhaven,United Kingdom,Derekburgh,South Korea
+Ransomware,2024-02-01 02:34:06.869813,New Michael,Russia,New Christophermouth,China,East Elizabeth,Brazil
+SQL Injection,2024-09-13 21:24:06.571900,Port Robertborough,Japan,Williamtown,China,Buckleymouth,United States
+SQL Injection,2024-05-13 01:46:39.539810,Reynoldsville,Germany,New David,Brazil,South Lawrence,United Kingdom
+Malware,2024-10-07 07:00:22.076035,South Maryburgh,United Kingdom,Lake Erik,China,Albertchester,Germany
+Malware,2024-08-27 21:36:04.693872,Laneville,United States,West Nathan,Germany,Amandaside,United Kingdom
+SQL Injection,2024-07-17 08:18:59.570515,Smithside,South Korea,Pierceberg,Australia,Port Nathanmouth,India
+Ransomware,2024-05-26 19:13:23.771136,Petersonburgh,India,Martinezburgh,India,Port Jeremyburgh,United Kingdom
+Phishing,2024-04-12 16:55:44.882650,Sherryton,China,Brownbury,United Kingdom,West Jessicashire,United Kingdom
+Malware,2024-07-13 08:47:01.643014,Lake Melissa,South Korea,Amberland,China,South Ann,India
+SQL Injection,2024-03-24 22:54:53.707767,Lake Rodney,United States,Diazfort,Brazil,Lake Jeanne,Brazil
+DDoS,2024-04-29 10:03:16.114863,Port Samuelport,Russia,West Faith,Australia,Toddfurt,Brazil
+Malware,2024-01-29 03:12:58.245122,Lake Melissa,Australia,Khanbury,United Kingdom,Carpenterfort,Germany
+Phishing,2024-02-18 00:46:01.115548,Lake Amy,United States,Garciaburgh,Japan,New Brianna,Australia
+SQL Injection,2024-09-30 10:11:25.517601,Alejandraview,China,South Tylerbury,Australia,Millerchester,United Kingdom
+Ransomware,2024-01-24 08:49:55.509095,South Stephanie,Brazil,Kevintown,South Korea,Port Stephaniestad,United States
+Malware,2024-04-10 00:41:36.242759,Schroederfort,China,Barajashaven,Russia,Trujillofurt,Germany
+Phishing,2024-03-24 03:27:11.447922,Lake Joanfort,China,Michaelhaven,Germany,Hillberg,Germany
+Ransomware,2024-07-06 21:42:01.585021,Wellston,India,Ballview,India,South Pennyberg,Russia
+Phishing,2024-08-26 20:50:24.110097,West Heathermouth,Brazil,Bobbychester,India,Samanthaview,Germany
+DDoS,2024-05-10 03:44:34.476268,Moranfurt,Brazil,Robertport,Russia,Daniellefurt,Australia
+DDoS,2024-04-19 20:56:38.428713,Tannerfurt,India,Webbmouth,South Korea,Diazton,India
+SQL Injection,2024-05-31 05:35:19.984371,South Justin,Australia,Johnville,South Korea,Hillstad,United Kingdom
+Malware,2024-09-30 05:35:52.027548,New Ashleyshire,China,Beverlystad,Russia,Hendrickshaven,United States
+Malware,2024-06-22 07:41:40.928796,Alejandroside,United Kingdom,Danton,South Korea,Lake Regina,Germany
+DDoS,2024-03-03 18:09:52.121788,North Maxwellview,United States,Victoriafort,China,Walkerchester,Russia
+Phishing,2024-01-17 21:03:36.584373,Annaburgh,Russia,North Michael,Brazil,North Feliciamouth,Russia
+Phishing,2024-09-05 19:04:35.913235,Thomaston,China,Hoffmanland,India,Williamstad,Brazil
+SQL Injection,2024-02-10 10:12:20.864848,Sandersfurt,China,Port Brandy,United States,North Anthony,United States
+Ransomware,2024-07-03 09:55:55.529485,Theresafurt,Russia,West Hannah,China,West Elizabeth,Japan
+Ransomware,2024-10-13 22:03:45.567989,Phillipsland,Japan,Washingtonside,Germany,Petersburgh,Germany
+Malware,2024-03-04 02:00:23.827751,Alantown,Germany,East Matthew,United States,Carolhaven,United States
+Phishing,2024-07-15 06:07:09.802920,North Kellyborough,Brazil,Villanuevaport,Germany,Lake Shannonfurt,China
+DDoS,2024-02-04 18:05:52.361306,West Susanberg,United Kingdom,South Melissa,Australia,Lake Seanmouth,South Korea
+DDoS,2024-05-13 22:20:20.122046,South Eileenland,Brazil,Stacyfurt,Japan,South Jacquelinestad,Japan
+Phishing,2024-10-25 06:39:50.409739,Lake Anna,Australia,North Scottside,South Korea,Cynthiaview,India
+SQL Injection,2024-04-23 12:26:37.329752,Port Kristenport,United Kingdom,Savannahmouth,Russia,West John,Brazil
+SQL Injection,2024-09-18 06:27:04.474570,Debrachester,South Korea,South Karenside,South Korea,Amandahaven,Russia
+Malware,2024-09-07 10:30:16.993680,Wilsonhaven,Japan,North Andreaview,South Korea,New Kyle,Germany
+Ransomware,2024-05-22 22:57:32.299522,West Kimberly,Brazil,West Kelseytown,Brazil,Christensenville,United Kingdom
+SQL Injection,2024-10-27 06:26:43.331526,Owensmouth,China,Emilyview,United States,Kathystad,Australia
+Phishing,2024-07-29 10:04:43.681837,Webbmouth,Australia,North Peter,United Kingdom,Lake Aprilborough,Brazil
+SQL Injection,2024-01-23 15:00:22.274533,Byrdhaven,China,Lake Donald,United Kingdom,Lake David,United States
+Phishing,2024-02-19 18:55:41.602045,Whitakerland,South Korea,New Erinbury,South Korea,Lake Robert,Germany
+DDoS,2024-02-17 09:31:52.116139,Jackport,United Kingdom,Millerside,India,East Kimberly,Australia
+SQL Injection,2024-01-16 08:34:16.297924,Villaside,Japan,Jessicaton,South Korea,Maryburgh,Japan
+Phishing,2024-04-10 20:31:33.401390,Lake Kyle,South Korea,Nicolasmouth,India,South Daniel,United States
+Malware,2024-03-06 15:51:54.522378,Jamesbury,Russia,New Carlfort,Japan,North Angelaport,Brazil
+Malware,2024-02-18 13:04:08.272019,Carriebury,United States,Alyssaton,Japan,Lake Michael,Japan
+Malware,2024-05-01 14:03:43.429987,North Phyllisview,Australia,South Jenniferside,India,Hunterfurt,United States
+Phishing,2024-05-11 11:41:29.595169,Christopherfurt,Russia,New Kenneth,Japan,Alexachester,South Korea
+Phishing,2024-05-27 21:13:38.932179,Port David,United Kingdom,Fredmouth,Germany,Howellshire,Japan
+DDoS,2024-06-12 01:28:30.711517,East Julian,South Korea,West Tara,South Korea,South Olivia,India
+DDoS,2024-10-12 08:37:37.981409,Hopkinsstad,Australia,Lisaville,India,East Mitchellburgh,United States
+Phishing,2024-10-11 14:33:22.372714,Port Keithton,Germany,Henryland,South Korea,North Joshua,Germany
+Ransomware,2024-05-22 23:32:10.283771,South Scott,India,New Mariobury,Australia,New Toddborough,China
+Phishing,2024-03-26 23:16:25.083200,Josephville,India,Benjaminland,Germany,Lake Eric,Germany
+Ransomware,2024-01-26 02:35:36.112772,Leeton,Russia,South Heatherview,United States,North Javierburgh,Japan
+SQL Injection,2024-07-14 05:03:56.815901,South Travisfort,Brazil,South Brandon,Germany,North Saraland,Brazil
+Phishing,2024-04-22 19:45:53.714258,Port Katie,Japan,Port Wendyland,Australia,Andersonport,China
+Ransomware,2024-03-16 08:34:09.082690,Fisherport,Russia,East Patricia,Japan,Johntown,Germany
+SQL Injection,2024-03-28 21:08:49.046310,South Taraview,Russia,Calderonbury,South Korea,Millerside,United States
+Ransomware,2024-09-09 12:39:44.936257,Aguilarmouth,United Kingdom,New Jamiehaven,Brazil,Andrewchester,Australia
+Phishing,2024-07-24 10:21:48.874208,Melissaside,Brazil,South Kylefort,Japan,North Andrewfort,Russia
+Phishing,2024-08-02 16:28:23.010335,Angieland,United Kingdom,Tonystad,Russia,South Amychester,Russia
+Ransomware,2024-09-13 00:08:13.765363,Trantown,Japan,Knightmouth,Brazil,Port Lauren,Japan
+Phishing,2024-07-09 18:13:07.262516,Moyerburgh,United States,Ortizmouth,United Kingdom,New Jennifer,Australia
+DDoS,2024-10-09 18:31:14.991623,New Emma,India,Lake Allenview,Russia,North Ashleyport,Australia
+DDoS,2024-05-10 07:58:29.610005,Watershaven,South Korea,Markchester,United Kingdom,Huntfort,China
